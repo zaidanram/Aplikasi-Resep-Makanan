@@ -1,0 +1,13 @@
+#Node.js
+/frontend/node_modules
+
+#Laravel
+/backend/vendor
+/backend/ .env
+
+# Build folder React
+/frontend/build
+
+# Others
+.DS_Store
+*.log
